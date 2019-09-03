@@ -1,0 +1,12 @@
+body {
+    color: white
+    font-family:'Patrick Hand', cursive;
+}
+
+a {
+    padding:6px 12px 6px 12px;
+}
+
+.my-image {
+    border-radius: 50% 20% / 10% 40%;
+}
